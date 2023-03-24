@@ -1,0 +1,49 @@
+{
+    "applicants": [
+        {
+            "name" : "Meredith Grey",
+            "attributes" {
+                "medical experience" : X,
+                "technical knowledge": X,
+                "critical thinking" : X,
+                "communication" : X,
+                "teamwork": X,
+            }
+        },{
+            "name" : "Christina Yang",
+            "attributes": {
+                "medical experience" : X,
+                "technical knowledge": X,
+                "critical thinking" : X,
+                "communication" : X,
+                "teamwork": X,
+            }  
+        },{
+            "name" : "Miranda Bailey",
+            "attributes": {
+                "medical experience" : X,
+                "technical knowledge": X,
+                "critical thinking" : X,
+                "communication" : X,
+                "teamwork": X,
+            }
+        },{
+            "name" : "Richard Webber",
+            "attributes": {
+                "medical experience" : X,
+                "technical knowledge": X,
+                "critical thinking" : X,
+                "communication" : X,
+                "teamwork": X,
+            }
+        },{
+            "name" : "Jackson Avery",
+            "attributes": {
+                "medical experience" : X,
+                "technical knowledge": X,
+                "critical thinking" : X,
+                "communication" : X,
+                "teamwork": X,
+        }
+    ]
+}
