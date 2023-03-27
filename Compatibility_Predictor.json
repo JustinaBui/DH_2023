@@ -28,7 +28,7 @@
                 "medical experience": 3,
                 "technical knowledge": 4,
                 "critical thinking": 4,
-                "communication": 3,
+                "communication": 5,
                 "teamwork": 3
             }
         },
@@ -48,10 +48,24 @@
                 "medical experience": 3,
                 "technical knowledge": 4,
                 "critical thinking": 3,
-                "communication": 3,
+                "communication": 1,
                 "teamwork": 2
             }
         }
+    ],
+
+    "scoredApplicants": [
+        {
+            "name": "Meredith Grey",
+            "score": 0.81
+        },
+        {
+            "name": "Christina Yang",
+            "score": 0.68
+        },
+        {
+            "name": "Alex Karev",
+            "score": 0.55
+        }
     ]
 }
-
