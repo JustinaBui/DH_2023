@@ -1,49 +1,57 @@
 {
+    "team": [
+        {
+            "name": "Richard Webber",
+            "attributes": {
+                "medical experience": 5,
+                "technical knowledge": 5,
+                "critical thinking": 5,
+                "communication": 5,
+                "teamwork": 5
+            }
+        },
+        {
+            "name": "Miranda Bailey",
+            "attributes": {
+                "medical experience": 4,
+                "technical knowledge": 4,
+                "critical thinking": 5,
+                "communication": 5,
+                "teamwork": 4
+            }
+        }
+    ],
     "applicants": [
         {
-            "name" : "Meredith Grey",
-            "attributes" {
-                "medical experience" : X,
-                "technical knowledge": X,
-                "critical thinking" : X,
-                "communication" : X,
-                "teamwork": X,
+            "name": "Meredith Grey",
+            "attributes": {
+                "medical experience": 3,
+                "technical knowledge": 4,
+                "critical thinking": 4,
+                "communication": 3,
+                "teamwork": 3
             }
-        },{
-            "name" : "Christina Yang",
+        },
+        {
+            "name": "Christina Yang",
             "attributes": {
-                "medical experience" : X,
-                "technical knowledge": X,
-                "critical thinking" : X,
-                "communication" : X,
-                "teamwork": X,
-            }  
-        },{
-            "name" : "Miranda Bailey",
-            "attributes": {
-                "medical experience" : X,
-                "technical knowledge": X,
-                "critical thinking" : X,
-                "communication" : X,
-                "teamwork": X,
+                "medical experience": 3,
+                "technical knowledge": 4,
+                "critical thinking": 5,
+                "communication": 2,
+                "teamwork": 2
             }
-        },{
-            "name" : "Richard Webber",
+        },
+        {
+            "name": "Alex Karev",
             "attributes": {
-                "medical experience" : X,
-                "technical knowledge": X,
-                "critical thinking" : X,
-                "communication" : X,
-                "teamwork": X,
+                "medical experience": 3,
+                "technical knowledge": 4,
+                "critical thinking": 3,
+                "communication": 3,
+                "teamwork": 2
             }
-        },{
-            "name" : "Jackson Avery",
-            "attributes": {
-                "medical experience" : X,
-                "technical knowledge": X,
-                "critical thinking" : X,
-                "communication" : X,
-                "teamwork": X,
         }
     ]
 }
+
